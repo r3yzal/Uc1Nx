@@ -7,7 +7,7 @@ proxies:
   type: trojan
   server: 104.18.23.136
   port: 443
-  password: f8dc193052a006bd
+  password: 0baa197000a6bcd3
   network: ws
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -23,7 +23,7 @@ proxies:
   type: trojan
   server: 104.17.70.206
   port: 443
-  password: f8dc193052a006bd
+  password: 0baa197000a6bcd3
   network: ws
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -39,7 +39,7 @@ proxies:
   type: trojan
   server: 104.22.4.240
   port: 443
-  password: f8dc193052a006bd
+  password: 0baa197000a6bcd3
   network: ws
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
