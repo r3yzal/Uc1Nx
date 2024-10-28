@@ -1,0 +1,165 @@
+#ByDN-Coffee @donihariramadhan
+#Tele Grup : https://t.me/duniaperinjekan
+
+proxies:
+#TROJAN-WS
+- name: CTB-0001-HTTPS-3136
+  type: trojan
+  server: 104.18.23.136
+  port: 443
+  password: 5138bd9eb0b8347a
+  network: ws
+  sni: premium-ctb.sing-box.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+#  interface-name: eth1
+
+- name: CTB-0010-HTTPS-7026
+  type: trojan
+  server: 104.17.70.206
+  port: 443
+  password: 487f81a89e0498ad
+  network: ws
+  sni: premium-ctb.sing-box.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+#  interface-name: eth1
+
+#TROJAN-GRPC
+- name: CTB-0004-HTTPS-4240
+  type: trojan
+  server: 104.22.4.240
+  port: 443
+  password: 6af9a83ee47f56c1
+  network: grpc
+  sni: premium-ctb.sing-box.id
+  skip-cert-verify: true
+  udp: true
+  grpc-opts:
+    grpc-service-name: buy-trojan-grpc-pm-telegram-at-synricha
+#  interface-name: eth1
+
+#VMESS-WS
+- name: CTB-0002-HTTPS-5240
+  type: vmess
+  server: 104.22.5.240
+  port: 443
+  uuid: b66ee40c-3168-42a0-ab91-61b5e4c93617
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-ws-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+#  interface-name: eth1
+
+- name: CTB-0011-HTTPS-8243
+  type: vmess
+  server: 104.17.158.243
+  port: 443
+  uuid: b0304892-fa83-4847-8374-b501f68a1f83
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-ws-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+#  interface-name: eth1
+
+#VMESS-GRPC
+- name: CTB-0005-HTTPS-7243
+  type: vmess
+  server: 104.17.157.243
+  port: 443
+  uuid: 17263b11-7d6c-47ac-bbf3-661ef4dd95eb
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: premium-ctb.sing-box.id
+  network: grpc
+  grpc-opts:
+    grpc-service-name: buy-vmess-grpc-pm-telegram-at-synricha
+#  interface-name: eth1
+
+#VLESS-WS
+- name: CTB-0003-HTTPS-6243
+  type: vless
+  server: 104.17.156.243
+  port: 443
+  uuid: 8b8d670b-9500-42c2-a798-bae4a35f7322
+  network: ws
+  servername: premium-ctb.sing-box.id
+  skip-cert-verify: true
+  udp: true
+  tls: true
+  ws-opts:
+    path: /buy-vless-ws-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+#  interface-name: eth1
+
+- name: CTB-0012-HTTPS-2206
+  type: vless
+  server: 104.17.72.206
+  port: 443
+  uuid: e50c930e-5b54-498e-bfaa-b5aa3b09ede0
+  network: ws
+  servername: premium-ctb.sing-box.id
+  skip-cert-verify: true
+  udp: true
+  tls: true
+  ws-opts:
+    path: /buy-vless-ws-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+#  interface-name: eth1
+
+#VLESS-GRPC
+- name: CTB-0006-HTTPS-5135
+  type: vless
+  server: 104.20.245.135
+  port: 443
+  uuid: a741aa96-0650-4cb1-9d53-19b9c7720089
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: premium-ctb.sing-box.id
+  network: grpc
+  grpc-opts:
+    grpc-service-name: buy-vless-grpc-pm-telegram-at-synricha
+#  interface-name: eth1
+
+- name: CTB-0006-HTTPS-7514
+  type: vless
+  server: 172.67.5.14
+  port: 443
+  uuid: a741aa96-0650-4cb1-9d53-19b9c7720089
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: premium-ctb.sing-box.id
+  network: grpc
+  grpc-opts:
+    grpc-service-name: buy-vless-grpc-pm-telegram-at-synricha
+#  interface-name: eth1
+

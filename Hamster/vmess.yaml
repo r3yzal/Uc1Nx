@@ -1,0 +1,177 @@
+#ByDN-Coffee @donihariramadhan
+#Tele Grup : https://t.me/duniaperinjekan
+
+proxies:
+#vmess-UPGRADE
+- name: CTB-0007-HU-3136
+  type: vmess
+  server: 104.18.23.136
+  port: 80
+  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-upgrade-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+    v2ray-http-upgrade: true
+#  interface-name: eth1
+
+- name: CTB-0007-HU-0206
+  type: vmess
+  server: 104.17.70.206
+  port: 80
+  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-upgrade-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+    v2ray-http-upgrade: true
+#  interface-name: eth1
+
+- name: CTB-0007-HU-4240
+  type: vmess
+  server: 104.22.4.240
+  port: 80
+  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-upgrade-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+    v2ray-http-upgrade: true
+#  interface-name: eth1
+
+#VMESS-UPGRADE
+- name: CTB-0007-HU-5240
+  type: vmess
+  server: 104.22.5.240
+  port: 80
+  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-upgrade-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+    v2ray-http-upgrade: true
+#  interface-name: eth1
+
+- name: CTB-0007-HU-8243
+  type: vmess
+  server: 104.17.158.243
+  port: 80
+  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-upgrade-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+    v2ray-http-upgrade: true
+#  interface-name: eth1
+
+- name: CTB-0007-HU-7243
+  type: vmess
+  server: 104.17.157.243
+  port: 80
+  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-upgrade-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+    v2ray-http-upgrade: true
+#  interface-name: eth1
+
+#vmess-UPGRADE
+- name: CTB-0007-HU-6243
+  type: vmess
+  server: 104.17.156.243
+  port: 80
+  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-upgrade-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+    v2ray-http-upgrade: true
+#  interface-name: eth1
+
+- name: CTB-0007-HU-2206
+  type: vmess
+  server: 104.17.72.206
+  port: 80
+  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-upgrade-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+    v2ray-http-upgrade: true
+#  interface-name: eth1
+
+- name: CTB-0007-HU-5135
+  type: vmess
+  server: 104.20.245.135
+  port: 80
+  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-upgrade-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+    v2ray-http-upgrade: true
+#  interface-name: eth1
+
+- name: CTB-0007-HU-7514
+  type: vmess
+  server: 172.67.5.14
+  port: 80
+  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  alterId: 0
+  cipher: auto
+  udp: true
+  servername: premium-ctb.sing-box.id
+  network: ws
+  ws-opts:
+    path: /buy-vmess-upgrade-pm-telegram-at-synricha
+    headers:
+      Host: premium-ctb.sing-box.id
+    v2ray-http-upgrade: true
+#  interface-name: eth1
+
