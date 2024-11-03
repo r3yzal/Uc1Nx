@@ -7,7 +7,7 @@ proxies:
   type: trojan
   server: 104.18.23.136
   port: 443
-  password: 312041d5f7fcbb15
+  password: 2f315c4a28d76127
   network: ws
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -22,7 +22,7 @@ proxies:
   type: trojan
   server: 104.17.70.206
   port: 443
-  password: 00ee55c6c24ded39
+  password: 74b43d0de7205bff
   network: ws
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -38,7 +38,7 @@ proxies:
   type: trojan
   server: 104.22.4.240
   port: 443
-  password: 6af9a83ee47f56c1
+  password: 743e7d4979a898fd
   network: grpc
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -70,7 +70,7 @@ proxies:
   type: vmess
   server: 104.17.158.243
   port: 443
-  uuid: c9b6ce7d-13d4-4312-ab63-aa293a3ccf1c
+  uuid: 4e0e51d2-ab79-4418-879e-c12d2e8a744c
   alterId: 0
   cipher: auto
   udp: true
@@ -122,7 +122,7 @@ proxies:
   type: vless
   server: 104.17.72.206
   port: 443
-  uuid: f1235105-0eb7-49b6-985d-4db9d47d659d
+  uuid: 3bfb9e40-353f-4e8d-aff6-809ea652486a
   network: ws
   servername: premium-ctb.sing-box.id
   skip-cert-verify: true
