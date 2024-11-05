@@ -22,7 +22,7 @@ proxies:
   type: trojan
   server: 104.17.70.206
   port: 443
-  password: 74b43d0de7205bff
+  password: 58b008e51859d651
   network: ws
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -70,7 +70,7 @@ proxies:
   type: vmess
   server: 104.17.158.243
   port: 443
-  uuid: ea80987b-29db-443e-ad07-252018bc21f7
+  uuid: ea80987b-29db-443e-ad07-252018bc21f
   alterId: 0
   cipher: auto
   udp: true
@@ -122,7 +122,7 @@ proxies:
   type: vless
   server: 104.17.72.206
   port: 443
-  uuid: 3bfb9e40-353f-4e8d-aff6-809ea652486a
+  uuid: 98cb6def-1c01-41db-aea0-e6ca4dcb93bb
   network: ws
   servername: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -162,4 +162,3 @@ proxies:
   grpc-opts:
     grpc-service-name: buy-vless-grpc-pm-telegram-at-synricha
 #  interface-name: eth1
-
