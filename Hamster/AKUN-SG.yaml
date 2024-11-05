@@ -70,7 +70,7 @@ proxies:
   type: vmess
   server: 104.17.158.243
   port: 443
-  uuid: ea80987b-29db-443e-ad07-252018bc21f
+  uuid: ea80987b-29db-443e-ad07-252018bc21f7
   alterId: 0
   cipher: auto
   udp: true
