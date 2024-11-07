@@ -174,4 +174,3 @@ proxies:
       Host: premium-ctb.sing-box.id
     v2ray-http-upgrade: true
 #  interface-name: eth1
-
