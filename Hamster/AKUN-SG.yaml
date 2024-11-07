@@ -122,7 +122,7 @@ proxies:
   type: vless
   server: 104.17.72.206
   port: 443
-  uuid: 98cb6def-1c01-41db-aea0-e6ca4dcb93bb
+  uuid: 565fd66f-d2f9-44f2-bfbe-04ce91312567
   network: ws
   servername: premium-ctb.sing-box.id
   skip-cert-verify: true
