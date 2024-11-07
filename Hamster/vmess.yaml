@@ -7,7 +7,7 @@ proxies:
   type: vmess
   server: 104.18.23.136
   port: 80
-  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  uuid: 336612fb-2702-48d0-b24e-77fe944ac126
   alterId: 0
   cipher: auto
   udp: true
@@ -24,7 +24,7 @@ proxies:
   type: vmess
   server: 104.17.70.206
   port: 80
-  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  uuid: 336612fb-2702-48d0-b24e-77fe944ac126
   alterId: 0
   cipher: auto
   udp: true
@@ -41,7 +41,7 @@ proxies:
   type: vmess
   server: 104.22.4.240
   port: 80
-  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  uuid: 336612fb-2702-48d0-b24e-77fe944ac126
   alterId: 0
   cipher: auto
   udp: true
@@ -59,7 +59,7 @@ proxies:
   type: vmess
   server: 104.22.5.240
   port: 80
-  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  uuid: 336612fb-2702-48d0-b24e-77fe944ac126
   alterId: 0
   cipher: auto
   udp: true
@@ -76,7 +76,7 @@ proxies:
   type: vmess
   server: 104.17.158.243
   port: 80
-  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  uuid: 336612fb-2702-48d0-b24e-77fe944ac126
   alterId: 0
   cipher: auto
   udp: true
@@ -93,7 +93,7 @@ proxies:
   type: vmess
   server: 104.17.157.243
   port: 80
-  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  uuid: 336612fb-2702-48d0-b24e-77fe944ac126
   alterId: 0
   cipher: auto
   udp: true
@@ -111,7 +111,7 @@ proxies:
   type: vmess
   server: 104.17.156.243
   port: 80
-  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  uuid: 336612fb-2702-48d0-b24e-77fe944ac126
   alterId: 0
   cipher: auto
   udp: true
@@ -128,7 +128,7 @@ proxies:
   type: vmess
   server: 104.17.72.206
   port: 80
-  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  uuid: 336612fb-2702-48d0-b24e-77fe944ac126
   alterId: 0
   cipher: auto
   udp: true
@@ -145,7 +145,7 @@ proxies:
   type: vmess
   server: 104.20.245.135
   port: 80
-  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  uuid: 336612fb-2702-48d0-b24e-77fe944ac126
   alterId: 0
   cipher: auto
   udp: true
@@ -162,7 +162,7 @@ proxies:
   type: vmess
   server: 172.67.5.14
   port: 80
-  uuid: ca01951f-0880-42bf-8cde-40c3d70023dd
+  uuid: 336612fb-2702-48d0-b24e-77fe944ac126
   alterId: 0
   cipher: auto
   udp: true
