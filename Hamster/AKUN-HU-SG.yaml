@@ -7,7 +7,7 @@ proxies:
   type: trojan
   server: 104.18.23.136
   port: 443
-  password: 0baa197000a6bcd3
+  password: 931e81592b46fdf3
   network: ws
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -23,7 +23,7 @@ proxies:
   type: trojan
   server: 104.17.70.206
   port: 443
-  password: 0baa197000a6bcd3
+  password: 931e81592b46fdf3
   network: ws
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -39,7 +39,7 @@ proxies:
   type: trojan
   server: 104.22.4.240
   port: 443
-  password: 0baa197000a6bcd3
+  password: 931e81592b46fdf3
   network: ws
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -108,7 +108,7 @@ proxies:
   type: vless
   server: 104.17.156.243
   port: 80
-  uuid: a7d5980a-fe96-41d8-a62c-838bfe0284a5
+  uuid: fec965e5-e749-4c49-b83a-df58c41280b6
   network: ws
   udp: true
   ws-opts:
@@ -122,7 +122,7 @@ proxies:
   type: vless
   server: 104.17.72.206
   port: 80
-  uuid: a7d5980a-fe96-41d8-a62c-838bfe0284a5
+  uuid: fec965e5-e749-4c49-b83a-df58c41280b6
   network: ws
   udp: true
   ws-opts:
@@ -136,7 +136,7 @@ proxies:
   type: vless
   server: 104.20.245.135
   port: 80
-  uuid: a7d5980a-fe96-41d8-a62c-838bfe0284a5
+  uuid: fec965e5-e749-4c49-b83a-df58c41280b6
   network: ws
   udp: true
   ws-opts:
@@ -150,7 +150,7 @@ proxies:
   type: vless
   server: 172.67.5.14
   port: 80
-  uuid: a7d5980a-fe96-41d8-a62c-838bfe0284a5
+  uuid: fec965e5-e749-4c49-b83a-df58c41280b6
   network: ws
   udp: true
   ws-opts:

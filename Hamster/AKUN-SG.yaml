@@ -22,7 +22,7 @@ proxies:
   type: trojan
   server: 104.17.70.206
   port: 443
-  password: 58b008e51859d651
+  password: c32ff07944052c57
   network: ws
   sni: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -52,7 +52,7 @@ proxies:
   type: vmess
   server: 104.22.5.240
   port: 443
-  uuid: e5064fb0-8b14-4728-a7ec-092b4475f8d4
+  uuid: c9275c02-1644-4283-a358-e2fafbad03c6
   alterId: 0
   cipher: auto
   udp: true
@@ -70,7 +70,7 @@ proxies:
   type: vmess
   server: 104.17.158.243
   port: 443
-  uuid: 0005b8c8-51fb-4098-8262-d03b5df043f9
+  uuid: 22c59f81-8e70-4b1b-9122-01a28d77295e
   alterId: 0
   cipher: auto
   udp: true
@@ -89,7 +89,7 @@ proxies:
   type: vmess
   server: 104.17.157.243
   port: 443
-  uuid: 17263b11-7d6c-47ac-bbf3-661ef4dd95eb
+  uuid: e2a4b7c5-12af-4cd3-a9dd-869c826943ec
   alterId: 0
   cipher: auto
   udp: true
@@ -106,7 +106,7 @@ proxies:
   type: vless
   server: 104.17.156.243
   port: 443
-  uuid: 8b8d670b-9500-42c2-a798-bae4a35f7322
+  uuid: 3368d322-239d-46fc-a852-4effa83af965
   network: ws
   servername: premium-ctb.sing-box.id
   skip-cert-verify: true
@@ -122,7 +122,7 @@ proxies:
   type: vless
   server: 104.17.72.206
   port: 443
-  uuid: 565fd66f-d2f9-44f2-bfbe-04ce91312567
+  uuid: 1e15084f-87f0-4fa2-8c81-1017473ffac7
   network: ws
   servername: premium-ctb.sing-box.id
   skip-cert-verify: true
